@@ -4,7 +4,9 @@
 
 # Preface | 前言
 
-# Home & More | 延伸阅读
+# About
+
+## Home & More | 延伸阅读
 
 ![](https://i.postimg.cc/CMDmg2SQ/image.png)
 
