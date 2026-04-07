@@ -4,7 +4,7 @@
 
 # Office
 
-- [2017~Serverless LibreOffice ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vladgolubev/serverless-libreoffice): Convert any document to PDF with headless Libreoffice compiled to run on AWS Lambda
+- [2017_Serverless LibreOffice ![code](https://ng-tech.icu/assets/code.svg)](https://github.com/vladgolubev/serverless-libreoffice): Convert any document to PDF with headless Libreoffice compiled to run on AWS Lambda
 
 # LaTex
 
@@ -18,4 +18,4 @@
 
 - [Latex Tutorial For Beginners](http://www.latex-tutorial.com/tutorials/beginners/)
 
-- [2021~Learn LaTex #Series#](https://www.learnlatex.org/en/): Take your first steps with LaTeX, a document preparation system designed to produce high-quality typeset output.
+- [2021_Learn LaTex #Series#](https://www.learnlatex.org/en/): Take your first steps with LaTeX, a document preparation system designed to produce high-quality typeset output.
